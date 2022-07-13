@@ -17,8 +17,8 @@ this file can make a bat file :
 -now you can access the path you saved by typing the name of the shortcut in the cmd 
 
 ###Usage:
->defpath new { name of the shortcut } //to create a new shortcut\n
->defoath delete { name of the shortcut } //to delete a shortcut\n
->defpath list //to list all the shortcuts\n
+-defpath new { name of the shortcut } //to create a new shortcut\n
+-defoath delete { name of the shortcut } //to delete a shortcut\n
+-defpath list //to list all the shortcuts\n
 
 
