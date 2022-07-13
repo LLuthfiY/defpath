@@ -8,7 +8,7 @@ this file can make a bat file :
     D: //{ disk of your current path }
     cd { current path }
     
-###HowToUse
+###HowToUse:
 
 * save the exe file to directory that you want to save all the bat files
 * add that directory to your PATH environment variable
