@@ -22,9 +22,9 @@ this file can make a bat file :
 
 >defpath new { name of the shortcut } //to create a new shortcut
 
->defoath delete { name of the shortcut } //to delete a shortcut\n
+>defoath delete { name of the shortcut } //to delete a shortcut
 
->defpath list //to list all the shortcuts\n
+>defpath list //to list all the shortcuts
     
 
 
