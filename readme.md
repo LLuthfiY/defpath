@@ -1,4 +1,4 @@
-#Simple CMD Path ShortCut Maker
+# Simple CMD Path ShortCut Maker
 
 make a shortcut to help you access path easily
 
@@ -8,7 +8,7 @@ this file can make a bat file :
     D: //{ disk of your current path }
     cd { current path }
     
-###HowToUse:
+### HowToUse:
 
 * save the exe file to directory that you want to save all the bat files
 * add that directory to your PATH environment variable
@@ -17,7 +17,7 @@ this file can make a bat file :
 * the bat file will be created in the same directory as the exe file
 * now you can access the path you saved by typing the name of the shortcut in the cmd 
 
-###Usage:
+### Usage:
     
 
 >defpath new { name of the shortcut } //to create a new shortcut
